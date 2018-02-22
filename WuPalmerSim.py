@@ -1,5 +1,5 @@
 from nltk.corpus import wordnet
-#cake,loaf ,bread
+
 
 
 ar1 = wordnet.synsets('mom')
